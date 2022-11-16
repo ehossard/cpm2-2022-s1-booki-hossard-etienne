@@ -32,14 +32,14 @@ header{
 /***************************/
 /* Styling Navigation Menu */
 /***************************/
-#menu{
+#menu {
 	float: right;
 	width: 70%;
 	height: 100%;
 	margin: none;
 }
 	
-#menu ul{
+#menu ul {
 	text-align: center;
 	float: right;
 	margin: none;
